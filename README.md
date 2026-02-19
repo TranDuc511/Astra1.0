@@ -66,6 +66,10 @@ AI_MODEL=qwen2.5:3b
 -   `server/memories/`: **The Memory Bank.**
     -   `SYSTEM.md`: The core personality file.
     -   `YYYY-MM-DD.md`: Daily chat logs.
+ 
+## Demo 
+<img width="1919" height="943" alt="Screenshot 2026-02-19 162730" src="https://github.com/user-attachments/assets/867b172d-fbaf-4bd6-ab87-5d0b990ef685" />
+
 
 ## 🤝 Contributing
 
