@@ -4,7 +4,7 @@ A local-first AI chat system with persistent memory, designed as a base for digi
 
 ## 🌟 Features
 
-- **Local AI Brain:** Powered by [Ollama](https://ollama.com/) (Default: `qwen2.5:3b`).
+- **Local AI Brain:** Powered by [Ollama](https://ollama.com/) (Default: `qwen2.5:3b` change to your model).
 - **Persistent Memory:**
   - **System Identity:** Edit the AI's "soul" (personality/instructions) in real-time.
   - **Daily Logs:** Automatically saves every conversation to `server/memories/YYYY-MM-DD.md`.
